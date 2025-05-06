@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@layer utilities {
+    .font-montserrat {
+      font-family: 'Montserrat', sans-serif;
+    }
+  
+    .font-inter {
+      font-family: 'Inter', sans-serif;
+    }
+  }
