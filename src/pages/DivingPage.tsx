@@ -1,5 +1,5 @@
 import Nav from '../component/nav/Nav'
-
+import { Link } from 'react-router'
 
 const DivingPage = () => {
   return (
@@ -7,7 +7,8 @@ const DivingPage = () => {
     <header>
       <Nav />
     </header>
-    <div>DivingPage</div>
+    <div className='className=" flex justify-center'>DivingPage</div>
+    <Link to="/memdive" className="hover:text-blue-400 transition block">Memdive</Link>
     </>
   )
 }
