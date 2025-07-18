@@ -6,6 +6,7 @@ import Experience from './pages/ExperiencePage.tsx';
 import Diving from './pages/DivingPage.tsx';
 import Contact from './pages/ContactPage.tsx';
 import ErrorPage from './pages/ErrorPage.tsx';
+import Memdive  from './pages/memdive/Memdive.tsx';
 
 
 const router = createBrowserRouter([
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
   {
     path: "contact",
     element: <Contact/>
+  },
+    {
+    path: "memdive",
+    element: <Memdive/>
   }
 ]);
 

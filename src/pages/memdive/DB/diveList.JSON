@@ -1,0 +1,15 @@
+[
+  { "diveNumber": 101, "diveName": "Forward Dive", "group": "forward" },
+  { "diveNumber": 102, "diveName": "Forward Somersault", "group": "forward" },
+  { "diveNumber": 103, "diveName": "Forward 1½ Somersaults", "group": "forward" },
+  { "diveNumber": 104, "diveName": "Forward 2 Somersaults", "group": "forward" },
+  { "diveNumber": 105, "diveName": "Forward 2½ Somersaults", "group": "forward" },
+  { "diveNumber": 106, "diveName": "Forward 3 Somersaults", "group": "forward" },
+  { "diveNumber": 107, "diveName": "Forward 3½ Somersaults", "group": "forward" },
+  { "diveNumber": 108, "diveName": "Forward 4 Somersaults", "group": "forward" },
+  { "diveNumber": 109, "diveName": "Forward 4½ Somersaults", "group": "forward" },
+  { "diveNumber": 1011, "diveName": "Forward 5½ Somersaults", "group": "forward" },
+  { "diveNumber": 112, "diveName": "Forward Flying Somersault", "group": "forward" },
+  { "diveNumber": 113, "diveName": "Forward Flying 1½ Somersaults", "group": "forward" },
+  { "diveNumber": 115, "diveName": "Forward Flying 2½ Somersaults", "group": "forward" }
+]
