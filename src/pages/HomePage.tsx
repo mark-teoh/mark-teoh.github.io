@@ -21,7 +21,7 @@ const HomePage = () => {
                 Hi, I am Mark, a software engineer and UQ graduate with experience as an Automation Test Engineer. Passionate about problem-solving and software development. Outside of tech, I am also a dedicated diving coach, helping athletes refine their skills and reach new heights.
               </p>
               <p className="max-w-5xl text-base sm:text-lg md:text-xl font-inter">
-                My full CV is{" "}.
+                My full CV is {" "}
                 <a
                   href="/resume.pdf"
                   target="_blank"
