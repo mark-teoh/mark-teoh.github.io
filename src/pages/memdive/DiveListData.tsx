@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
-interface Dives {
-  diveNumber: number;
+export interface Dives {
+  diveNumber: string;
   diveName: string;
   group?: string;
 }
