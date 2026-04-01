@@ -1,6 +1,3 @@
-import Nav from '../component/nav/Nav'
-import ErrorPage from './ErrorPage'
-
 const AprilFoolsPage = () => {
   return (
     <>
