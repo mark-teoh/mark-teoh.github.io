@@ -8,6 +8,7 @@ import Diving from './pages/DivingPage.tsx';
 import Contact from './pages/ContactPage.tsx';
 import ErrorPage from './pages/ErrorPage.tsx';
 import Memdive  from './pages/memdive/Memdive.tsx';
+import AprilFoolsPage from './pages/AprilFoolsPage.tsx';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -19,6 +20,7 @@ createRoot(document.getElementById('root')!).render(
         <Route path="contact" element={<Contact />} />
         <Route path="memdive" element={<Memdive />} />
         <Route path="*" element={<ErrorPage />} />
+        <Route path="aprilfools" element={<AprilFoolsPage />} />
       </Routes>
     </HashRouter>
   </StrictMode>
